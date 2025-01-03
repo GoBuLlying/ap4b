@@ -1,6 +1,7 @@
 public class Bibliotheque extends Building{
     private String name_res;
     private int num_res;
+    helloworld
 
     public Bibliotheque(int _column,int _level,String _type,String _name_res,int _num_res)
     {
